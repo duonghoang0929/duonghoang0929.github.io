@@ -1,0 +1,27 @@
+.pic {
+    width: 350px;
+    height: 300px;
+}
+.title {
+    text-align: center; 
+}
+.title a {
+    color: brown;
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title a:hover {
+    color: rgb(0, 0, 90);
+    text-decoration: none;
+}
+.gallery {
+    text-align: center;
+    font-style: italic;
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-shadow: 0.08em 0.03em 0.05em grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
